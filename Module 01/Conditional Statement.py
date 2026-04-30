@@ -8,3 +8,4 @@ elif marks >= 50:
     print("Grade C")
 else:
     print("Fail")
+
