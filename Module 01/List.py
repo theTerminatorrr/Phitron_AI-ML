@@ -6,3 +6,4 @@ print(fruits[2])
 
 numbers = input("Enter numbers : ").split()
 print(numbers)
+
