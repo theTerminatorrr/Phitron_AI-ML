@@ -35,5 +35,3 @@ print( b )
 print ( type (b) )
 
 print ( a+b )
-
-
