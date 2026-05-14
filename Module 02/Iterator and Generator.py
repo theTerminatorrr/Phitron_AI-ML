@@ -10,12 +10,8 @@ print ( "\n" )
 for i in s :
   print ( i )
 
-
-
 list = [ x for x in range (500) ]
 print ( list )
-
-
 
 list = [ x for x in range (500) ]
 print ( list )
