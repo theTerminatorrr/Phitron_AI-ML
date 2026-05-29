@@ -2,8 +2,6 @@ with open ( "/test.txt", "w") as file :
   file.write ( " Bhalo acho Bondhu? \n")
   file.write ( " Poralekha kemon cole? ")
 
-
-
 #with existing file
 with open ( "/test.txt", "w") as file :
   file.write ( " Learning with Phitron is going fast....\n")
