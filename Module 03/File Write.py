@@ -12,7 +12,7 @@ with open ( "/test.txt", "a") as file :
   file.write ( " The learning of AI ML is fun. \n")
   file.write ( " I'm enjoying. ")
 
-
 strings = ['Hello', ' hi', ' good bye ']
 with open ( "/test2.txt", "a") as file :
   file.writelines( strings )
+
