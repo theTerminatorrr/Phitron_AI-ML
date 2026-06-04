@@ -7,8 +7,6 @@ print ( type(content ))
 print ( file.closed )
 print ( "\n" )
 
-
-
 file = open ( "Sample.txt", "r")
 content = file.readlines()
 
