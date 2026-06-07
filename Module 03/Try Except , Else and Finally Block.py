@@ -6,7 +6,6 @@ except ZeroDivisionError:
 
 print("hello world")
 
-
 # model train
 try:
   file = open("./sample_data/data1.txt","r")
@@ -17,3 +16,4 @@ else:
   print(file.read())
 finally:
   print("Gpu is stopped")
+
