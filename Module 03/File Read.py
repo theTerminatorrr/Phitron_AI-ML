@@ -17,13 +17,11 @@ file.close ()
 print ( file.closed )
 print ( "\n" )
 
-
 with open ( "Sample.txt", "r") as file :
   content = file.readlines()
   print ( content )
 
 print ( file.closed )
-
 
 
 print ( "\n" )
